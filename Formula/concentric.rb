@@ -3,7 +3,7 @@ class Concentric < Formula
   homepage "https://github.com/concentric-audio/homebrew-tap"
   url "https://github.com/concentric-audio/homebrew-tap/releases/download/v0.2.0/concentric-0.2.0-macos-universal.tar.gz"
   version "0.2.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000" # placeholder: rewritten by release-macos.sh --publish
+  sha256 "efe7f0c157cbad952f0b2362c46c4c17a4bb913c77ddebeed33c22d19a82a4c8"
 
   depends_on :macos
 
